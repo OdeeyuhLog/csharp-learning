@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HelloWorld", "..\Beginner\H
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Calculator", "..\Beginner\Calculator\Calculator.csproj", "{11C495FE-ABC7-4021-931D-ABCCAE88CAFA}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NumberGuesser", "..\Beginner\NumberGuesser\NumberGuesser.csproj", "{CA0E8FC4-2A60-43DE-8D64-E306342F3913}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{11C495FE-ABC7-4021-931D-ABCCAE88CAFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{11C495FE-ABC7-4021-931D-ABCCAE88CAFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{11C495FE-ABC7-4021-931D-ABCCAE88CAFA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA0E8FC4-2A60-43DE-8D64-E306342F3913}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA0E8FC4-2A60-43DE-8D64-E306342F3913}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA0E8FC4-2A60-43DE-8D64-E306342F3913}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA0E8FC4-2A60-43DE-8D64-E306342F3913}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
