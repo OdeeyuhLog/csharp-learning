@@ -9,6 +9,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Calculator", "..\Beginner\C
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NumberGuesser", "..\Beginner\NumberGuesser\NumberGuesser.csproj", "{CA0E8FC4-2A60-43DE-8D64-E306342F3913}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FileExplorer", "..\Beginner\FileExplorer\FileExplorer.csproj", "{9EE6E227-EC57-4AA4-97B7-315386E29659}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{CA0E8FC4-2A60-43DE-8D64-E306342F3913}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CA0E8FC4-2A60-43DE-8D64-E306342F3913}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CA0E8FC4-2A60-43DE-8D64-E306342F3913}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9EE6E227-EC57-4AA4-97B7-315386E29659}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EE6E227-EC57-4AA4-97B7-315386E29659}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EE6E227-EC57-4AA4-97B7-315386E29659}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EE6E227-EC57-4AA4-97B7-315386E29659}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
