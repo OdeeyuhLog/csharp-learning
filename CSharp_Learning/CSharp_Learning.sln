@@ -13,6 +13,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FileExplorer", "..\Beginner
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LibraryManagementSystem", "..\Intermediate\LibraryManagementSystem\LibraryManagementSystem.csproj", "{4AF55203-BBC7-4956-8F23-0D07B6BB7F77}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentGradingSystem", "..\Intermediate\StudentGradingSystem\StudentGradingSystem.csproj", "{F400D7FD-F324-4EF4-BD64-1EE414AD7ED5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{4AF55203-BBC7-4956-8F23-0D07B6BB7F77}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4AF55203-BBC7-4956-8F23-0D07B6BB7F77}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4AF55203-BBC7-4956-8F23-0D07B6BB7F77}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F400D7FD-F324-4EF4-BD64-1EE414AD7ED5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F400D7FD-F324-4EF4-BD64-1EE414AD7ED5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F400D7FD-F324-4EF4-BD64-1EE414AD7ED5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F400D7FD-F324-4EF4-BD64-1EE414AD7ED5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
